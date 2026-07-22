@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=AWS+Certified+Cloud+Practitioner;Cloud+Computing+Student+%7C+NCST;Cloud+%26+Networking+Enthusiast;Building+Real-World+Cloud+Skills" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=AWS+Certified+Solutions+Architect+%E2%80%93+Associate;Cloud+Computing+Student+%7C+NCST;Cloud+%26+Networking+Enthusiast;Building+Real-World+Cloud+Skills" alt="Typing SVG" />
 </h3>
 
 <p align="center">

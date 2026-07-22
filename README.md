@@ -36,9 +36,9 @@
 💡 AWS, cloud networking, Linux, virtualization, GNOC operations, and IT infrastructure
 
 ### 📫 How to reach me
-- 📧 **Email:** NV23005@ncst.edu.bh  
+- 📧 **Email:** its.ahmad09@gmail.com  
 - 📞 **Phone:** +973 39331343  
-- 🔗 **LinkedIn:** (add your profile link)
+- 🔗 **LinkedIn:** (https://www.linkedin.com/in/ahmed-khalil-jasim/)
 
 ### 😄 Pronouns
 He / Him

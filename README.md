@@ -36,8 +36,7 @@
 💡 AWS, cloud networking, Linux, virtualization, GNOC operations, and IT infrastructure
 
 ### 📫 How to reach me
-- 📧 **Email:** its.ahmad09@gmail.com  
-- 📞 **Phone:** +973 39331343  
+- 📧 **Email:** its.ahmad09@gmail.com    
 - 🔗 **LinkedIn:** (https://www.linkedin.com/in/ahmed-khalil-jasim/)
 
 ### 😄 Pronouns
